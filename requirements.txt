@@ -1,0 +1,5 @@
+-e ../shared_models
+alembic
+sqlalchemy
+python-dotenv
+psycopg2-binary
